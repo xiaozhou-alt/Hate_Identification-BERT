@@ -104,3 +104,4 @@ Hate_Identification/
 
 ![compare](./images/compare.png)
 
+更多信息请关注我的博客CSDN：[基于 BERT 与语义角色标注的细粒度中文仇恨言论检测](https://blog.csdn.net/soejjdiwjssundo/article/details/148812687)
